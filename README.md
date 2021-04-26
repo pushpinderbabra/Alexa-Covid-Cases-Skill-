@@ -1,8 +1,7 @@
-# Alexa-Covid-Cases-Skill-
 <div align="center">
-  <h1>Alexa Covid Cases Info by Pushpi</h1>
+  <h1>Alexa Covid Cases Info By Pushpi</h1>
   <p align="center"> 
-    <img src="./screenshots/capture_current_state_intent.png" style="box-shadow: 0px 0px 20px 0px rgba(189,182,189,1)">
+    <img src="./screenshots/headerphoto.png" style="box-shadow: 0px 0px 20px 0px rgba(189,182,189,1)">
   </p>
 </div>
 
