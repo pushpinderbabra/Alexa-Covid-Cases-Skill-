@@ -24,7 +24,7 @@ You can either invoke the skill about saying "covid cases info by pushpi" or jus
 
 Ask about a state|She will ask to clarify if you didn't provide a state|If you have asked about a state before, she will remember it so you don't have to say it again next time
 :-------------------------:|:-------------------------:|:-------------------------:
-![](./capture11.JPG)|![](./screenshots/capture_state_intent2.png)|![](./screenshots/capture_current_state_intent.png)
+![](./capture 11.JPG)|![](./screenshots/capture_state_intent2.png)|![](./screenshots/capture_current_state_intent.png)
 
 Ask about a country   |Ask about global summary   |  Aak about top countires and top states
 :-------------------------:|:-------------------------:|:-------------------------:
