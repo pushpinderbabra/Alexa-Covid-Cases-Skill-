@@ -22,10 +22,10 @@
 You can either invoke the skill about saying "covid cases info by pushpi" or just directly ask Alexa a question by saying things like "how many cases have been reported in India?"
 
 
-Ask about a state|She will ask to clarify if you didn't provide a state|If you have asked about a state before, she will remember it so you don't have to say it again next time
+Ask about a state|She will ask you about your body temperature|If you have asked something different you can ask!
 :-------------------------:|:-------------------------:|:-------------------------:
-![](./capture11.JPG)|![](./screenshots/capture_state_intent2.png)|![](./screenshots/capture_current_state_intent.png)
+![](./capture11.JPG)|![](./capture12.JPG)|![](./capture.JPG)
 
-Ask about a country   |Ask about global summary   |  Aak About a state
+Ask about a country   |Ask about global summary   |  Aak About a State
 :-------------------------:|:-------------------------:|:-------------------------:
-![](./screenshots/capture_country_intent.png)|![](./screenshots/capture_global_intent.png)|![](./Capture13.JGP)
+![](./screenshots/capture_country_intent.png)|![](./screenshots/capture_global_intent.png)|![](./Capture13.JPG)
