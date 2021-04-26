@@ -24,7 +24,7 @@ You can either invoke the skill about saying "covid cases info by pushpi" or jus
 
 Ask about a state|She will ask you about your body temperature|If you have asked something different you can ask
 :-------------------------:|:-------------------------:|:-------------------------:
-![](./capture11.JPG)|![](./capture12.JPG)|![](./capture.JPG)
+![](./capture11.JPG)|![](./Capture12.JPG)|![](./Capture.JPG)
 
 Ask about a country   |Ask about global summary   |  Ask About a State
 :-------------------------:|:-------------------------:|:-------------------------:
