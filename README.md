@@ -26,6 +26,6 @@ Ask about a Covid cases info|She will ask you about your body temperature|If you
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](./capture11.JPG)|![](./Capture12.JPG)|![](./Capture.JPG)
 
-Ask about a country   |Ask about global summary   |  Ask About a State
+Ask about a country   |Details Saved to DynamoDB   |  Ask About a State
 :-------------------------:|:-------------------------:|:-------------------------:
-![](./Capture14.JPG)|![](./Capture11.JPG)|![](./Capture13.JPG)
+![](./Capture14.JPG)|![](./Capture15.JPG)|![](./Capture13.JPG)
