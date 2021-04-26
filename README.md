@@ -28,4 +28,4 @@ Ask about a state|She will ask to clarify if you didn't provide a state|If you h
 
 Ask about a country   |Ask about global summary   |  Aak About a state
 :-------------------------:|:-------------------------:|:-------------------------:
-![](./screenshots/capture_country_intent.png)|![](./screenshots/capture_global_intent.png)|![](./capture13.JGP)
+![](./screenshots/capture_country_intent.png)|![](./screenshots/capture_global_intent.png)|![](./Capture13.JGP)
