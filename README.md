@@ -28,4 +28,4 @@ Ask about a state|She will ask you about your body temperature|If you have asked
 
 Ask about a country   |Ask about global summary   |  Ask About a State
 :-------------------------:|:-------------------------:|:-------------------------:
-![](./screenshots/capture_country_intent.png)|![](./screenshots/capture_global_intent.png)|![](./Capture13.JPG)
+![](./capture14.JPG)|![](./screenshots/capture_global_intent.png)|![](./Capture13.JPG)
