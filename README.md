@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Alexa Covid Cases Info By Pushpi</h1>
   <p align="center"> 
-    <img src="./screenshots/headerphoto.JPG" style="box-shadow: 0px 0px 20px 0px rgba(189,182,189,1)">
+    <img src="./headerphoto.JPG" style="box-shadow: 0px 0px 20px 0px rgba(189,182,189,1)">
   </p>
 </div>
 
