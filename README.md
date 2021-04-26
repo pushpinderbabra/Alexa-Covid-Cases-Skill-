@@ -26,6 +26,6 @@ Ask about a state|She will ask to clarify if you didn't provide a state|If you h
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](./capture11.JPG)|![](./screenshots/capture_state_intent2.png)|![](./screenshots/capture_current_state_intent.png)
 
-Ask about a country   |Ask about global summary   |  Aak about top countires and top states
+Ask about a country   |Ask about global summary   |  Aak About a state
 :-------------------------:|:-------------------------:|:-------------------------:
-![](./screenshots/capture_country_intent.png)|![](./screenshots/capture_global_intent.png)|![](./screenshots/capture_top_countries_and_states_intents.png)
+![](./screenshots/capture_country_intent.png)|![](./screenshots/capture_global_intent.png)|![](./capture13.JGP)
